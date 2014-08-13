@@ -10,3 +10,5 @@ Git push
 
 
 Add a page: add a controller, add a view, add a route.
+
+Layout = navitagion links
