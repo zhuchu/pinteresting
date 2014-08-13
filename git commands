@@ -1,0 +1,12 @@
+git commands
+
+Git add .
+
+Git status
+
+Git commit –am “message”
+
+Git push
+
+
+Add a page: add a controller, add a view, add a route.
